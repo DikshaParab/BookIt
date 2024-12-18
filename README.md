@@ -1,4 +1,4 @@
-# BookIt-Venue-Booking-System
+# BookIt
 
 The Venue Booking System is a comprehensive database project designed to manage and optimize the booking of venues such as auditoriums, seminar halls, and meeting rooms. This project involves creating a relational database with four primary tables: User, Admin, Venue, and Booking. The system facilitates efficient data storage and retrieval to support seamless interaction between users, admins, and venues.
 
